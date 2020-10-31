@@ -23,5 +23,5 @@
 const category = 'toys';
 console.log(`https://someurl.com/${category}/3`);
 
-const user = 'Ruslan';
+const user = 'Ruslanchik';
 alert(`Hello, ${user}`);
